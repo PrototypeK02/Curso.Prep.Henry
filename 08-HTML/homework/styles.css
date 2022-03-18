@@ -1,0 +1,44 @@
+<style>
+
+    h1 {
+        color: burlywood
+    }
+
+    div#thirdDiv {
+        width: 500;
+        height: 600;
+        font-size: 24px;
+        padding: 5px;
+        margin: 0 auto;
+        border-color: brown;
+        border-style: double;
+        background-color: blanchedalmond
+        
+        
+    }
+
+    .divClass {
+        display: flex;
+        justify-content: center;
+        align-items: center
+
+;
+    }
+    span#spanId {
+        font-size: 18px;
+        margin: 50px;
+        
+
+        
+    }
+
+    body{
+        margin: 0;
+        padding: 0;
+        background: url(pabellon.jpg);   
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+    }
+</style>
+
